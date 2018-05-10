@@ -135,5 +135,6 @@ function checkTB(){
 
 function mousePressed(){
 	yspeed=-8;
-  end=false;
+  	end=false;
+	return(false);
 }
